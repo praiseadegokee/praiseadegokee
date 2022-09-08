@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praise Adégòkè</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praiseadegokee&label=Profile%20views&color=0e75b6&style=flat" alt="praiseadegokee" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adegokepraise" target="blank"><img src="https://img.shields.io/twitter/follow/adegokepraise?logo=twitter&style=for-the-badge" alt="adegokepraise" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👨‍💻 All of my projects are available at [www.praiseadegoke.com](www.praiseadegoke.com)
 
