@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/adegokepraise" target="blank"><img src="https://img.shields.io/twitter/follow/adegokepraise?logo=twitter&style=for-the-badge" alt="adegokepraise" /></a> </p>
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **Software Engineering** through ALX Software Engineering Programme
 
 - 👨‍💻 All of my projects are available at [www.praiseadegoke.com](www.praiseadegoke.com)
 
