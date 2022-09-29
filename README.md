@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Praise Adégòkè</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
+[![@praiseadegoke's Holopin board](https://holopin.io/api/user/board?user=praiseadegoke)](https://holopin.io/@praiseadegoke)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praiseadegokee&label=Profile%20views&color=0e75b6&style=flat" alt="praiseadegokee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praiseadegokee" alt="praiseadegokee" /></a> </p>
