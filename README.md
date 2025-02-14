@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praise Adegoke</h1>
-<h3 align="center">I'm interested in the fiedl of Law, AI and Design</h3>
+<h3 align="center">I'm interested in the field of Law, AI and Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praiseadegokee&label=Profile%20views&color=0e75b6&style=flat" alt="praiseadegokee" /> </p>
 
